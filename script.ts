@@ -15,7 +15,7 @@ function registrarUsuario () {
     let metodoDePago: number;
 
     //se pide al usuario que ingrese sus datos y se guardan en las variables
-
+    //si algo quedo en null que lo pida de nuevo hasta que lo complete WHILE
     
 }
 
@@ -40,12 +40,12 @@ function realizarCompra () {
             //y en cuantas cuotas lo va a hacer
         }
     }
-    else if(transferencia){
+    else if(vaAPagarCon="transferencia"){
         //mostrar por pantalla el CBU o alias
     }
 }
 function favoritos(){
-    //if usuario === like
+    //if usuario === likefgfdhfg
     //añadir al arreglo
 }
 
